@@ -18,7 +18,7 @@ This Terraform script automates the setup of a two-tier application architecture
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the command:
 
     ```bash
-    git clone https://github.com/Tarun-Chand-Illapu/Automated-Deployment-of-AWS-VPC-using-Terraform.git
+    git clone https://github.com/ChaitanyaKarnati/AWS-VPC-Configuration-with-Public-and-Private-Subnets-and-Associated-EC2-Instances.git
     ```
 
 
